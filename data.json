@@ -1,0 +1,113 @@
+[
+    {
+    "id": 1,
+    "question": "Quelle est la capitale de la France ?",
+    "correctAnswer": "Paris",
+    "answer": [
+        "Paris",
+        "Berlin",
+        "Madrid",
+        "Rome"
+      ]
+    },
+    {
+    "id": 2,
+    "question": "Quel est l'organe principal du système respiratoire humain ?",
+    "correctAnswer": "Poumon",
+    "answer": [
+        "Cœur",
+        "Foie",
+        "Poumon",
+        "Estomac"
+      ]
+    },
+    {
+    "id": 3,
+    "question": "Qui a écrit \"Roméo et Juliette\" ?"
+    ,
+    "correctAnswer": "William Shakespeare",
+    "answer": [
+        "Jane Austen",
+        "William Shakespeare",
+        "Victor Hugo",
+        "Charles Dickens"
+      ]
+    },
+    {
+    "id": 4,
+    "question": "Quel est l'élément chimique représenté par le symbole \"H\" ?",
+    "correctAnswer": "Hydrogène",
+    "answer": [
+        "Hélium",
+        "Carbone",
+        "Azote",
+        "Hydrogène"
+      ]
+    },
+    {
+    "id": 5,
+    "question": "Quelle est la plus grande planète du système solaire ?",
+    "correctAnswer": "Jupiter",
+    "answer": [
+        "Jupiter",
+        "Mars",
+        "Vénus",
+        "Saturne"
+      ]
+    },
+    {
+    "id": 6,
+    "question": "Quel est le nombre total de continents sur Terre ?",
+    "correctAnswer": "Sept",
+    "answer": [
+        "Sept",
+        "Six",
+        "Cinq",
+        "Quatre"
+      ]
+    },
+    {
+    "id": 7,
+    "question": "Quelle est la capitale du Japon ?",
+    "correctAnswer": "Tokyo",
+    "answer": [
+        "Pékin",
+        "Séoul",
+        "Bangkok",
+        "Tokyo"
+      ]
+    },
+    {
+    "id": 8,
+    "question": "Quel est le plus grand océan du monde ?",
+    "correctAnswer": "Océan Pacifique",
+    "answer": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ]
+    },
+    {
+    "id": 9,
+    "question": "Qui a peint la Joconde ?",
+    "correctAnswer": "Léonard de Vinci",
+    "answer": [
+        "Vincent van Gogh",
+        "Léonard de Vinci",
+        "Pablo Picasso",
+        "Claude Monet"
+      ]
+    },
+    {
+    "id": 10,
+    "question": "Quel est le symbole chimique de l'or ?",
+    "correctAnswer": "Au",
+    "answer": [
+        "Ag",
+        "Fe",
+        "Au",
+        "Hg"
+      ]
+    }
+]
